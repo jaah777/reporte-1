@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="PZxAvmXWT7nS3xKaFRe5">
+    <mxGraphModel dx="1946" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NU01DNLqPuxPz1q3makR-3" parent="1" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;rackUnitSize=14.8;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="75" width="62" x="750" y="1042" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-5" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;labelPerimeter=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="45" width="59" x="705" y="717" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-7" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;labelPerimeter=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="45" width="59" x="713" y="607" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-8" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;labelPerimeter=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="45" width="59" x="713" y="497" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-9" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.printer;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="560" y="1069" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-10" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="40" width="45" x="391" y="1029" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="40" width="45" x="492" y="1029" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-12" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="40" width="45" x="607.5" y="1029" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-13" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;labelPerimeter=1;rotation=89;direction=west;" value="" vertex="1">
+          <mxGeometry height="50" width="47" x="320" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-14" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;labelPerimeter=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="47" width="59" x="144" y="496" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-15" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="365" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-17" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="47" width="59" x="174" y="176" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-18" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="30" width="40" x="627" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-19" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=-90;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="88.5" y="1116" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-22" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="20" y="1117" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-23" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="47" width="50" x="488.5" y="391.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NU01DNLqPuxPz1q3makR-26" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;labelPerimeter=1;rotation=-180;" value="" vertex="1">
+          <mxGeometry height="50" width="47" x="70" y="174.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
